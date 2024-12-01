@@ -4,7 +4,7 @@
 """
 File: skyland.py(森空岛签到)
 Author: Bwmgd
-cron: 0 30 8 * * *
+cron: 0 50 5 * * *
 new Env('森空岛签到');
 Update: 2024/10/09
 """
